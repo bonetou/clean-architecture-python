@@ -14,3 +14,15 @@ class Student:
 
     def add_phone(self, phone: Phone):
         self._phones.append(phone)
+
+    def get_cpf(self) -> CPF:
+        return self._cpf
+
+    def get_name(self) -> str:
+        return self._name
+
+    def get_email(self) -> Email:
+        return self._email
+
+    def get_phones(self) -> List[Phone]:
+        return self._phones

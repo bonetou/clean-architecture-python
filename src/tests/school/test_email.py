@@ -1,5 +1,5 @@
-from src.school.email import Email
-from src.school.exceptions.email_address_not_valid import EmailAddressNotValid
+from src.domain.school.email import Email
+from src.domain.school.exceptions.email_address_not_valid import EmailAddressNotValid
 import pytest
 
 

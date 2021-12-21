@@ -1,7 +1,8 @@
-from src.school.cpf import CPF
-from src.school.email import Email
-from src.school.phone import Phone
-from src.school.student_builder import StudentBuilder
+from src.domain.school.cpf import CPF
+from src.domain.school.email import Email
+from src.domain.school.phone import Phone
+from src.domain.school.student_builder import StudentBuilder
+
 
 def test_create_student():
     name = "boneto"
@@ -12,7 +13,8 @@ def test_create_student():
     ddd_2 = "51"
     number_2 = "12345678"
     student_builder = StudentBuilder()
-    student = (student_builder
+    student = (
+        student_builder
     ).with_name_cpf_email(
         name=name,
         cpf=cpf,

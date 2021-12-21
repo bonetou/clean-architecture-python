@@ -1,4 +1,4 @@
-from src.school.student import Student
+from src.domain.school.student import Student
 from datetime import datetime
 
 

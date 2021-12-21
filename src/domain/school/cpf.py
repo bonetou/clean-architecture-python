@@ -2,7 +2,7 @@ import re
 from dataclasses import dataclass
 from typing import Optional, Match
 
-from src.school.exceptions.cpf_not_valid import CPFNotValid
+from src.domain.school.exceptions.cpf_not_valid import CPFNotValid
 
 
 @dataclass

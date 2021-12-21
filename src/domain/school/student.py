@@ -1,8 +1,8 @@
-from src.school.cpf import CPF
-from src.school.email import Email
+from src.domain.school.cpf import CPF
+from src.domain.school.email import Email
 from typing import List
 
-from src.school.phone import Phone
+from src.domain.school.phone import Phone
 
 
 class Student:

@@ -1,7 +1,7 @@
 import pytest
 
-from src.school.cpf import CPF
-from src.school.exceptions.cpf_not_valid import CPFNotValid
+from src.domain.school.cpf import CPF
+from src.domain.school.exceptions.cpf_not_valid import CPFNotValid
 
 
 def test_should_create_valid_cpf():

@@ -2,7 +2,7 @@ import re
 from dataclasses import dataclass
 from typing import Optional, Match
 
-from src.school.exceptions.phone import DDDOrNumberIsNull, NumberIsNotValid, DDDIsNotValid
+from src.domain.school.exceptions.phone import DDDOrNumberIsNull, NumberIsNotValid, DDDIsNotValid
 
 
 @dataclass

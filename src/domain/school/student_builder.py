@@ -1,9 +1,9 @@
 from typing import Optional
 
-from src.school.cpf import CPF
-from src.school.email import Email
-from src.school.phone import Phone
-from src.school.student import Student
+from src.domain.school.cpf import CPF
+from src.domain.school.email import Email
+from src.domain.school.phone import Phone
+from src.domain.school.student import Student
 
 
 class StudentBuilder:

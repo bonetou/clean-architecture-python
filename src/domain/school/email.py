@@ -1,6 +1,6 @@
 from typing import Optional, Match
 
-from src.school.exceptions.email_address_not_valid import EmailAddressNotValid
+from src.domain.school.exceptions.email_address_not_valid import EmailAddressNotValid
 from dataclasses import dataclass
 import re
 

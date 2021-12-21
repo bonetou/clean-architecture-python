@@ -1,5 +1,5 @@
-from src.school.phone import Phone
-from src.school.exceptions.phone import NumberIsNotValid, DDDIsNotValid, DDDOrNumberIsNull
+from src.domain.school.phone import Phone
+from src.domain.school.exceptions.phone import NumberIsNotValid, DDDIsNotValid, DDDOrNumberIsNull
 
 import pytest
 

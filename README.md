@@ -9,6 +9,7 @@ The course simplifies Clean Architecture in three main layers:
 - Domain
 - Application/UseCase
 - Infrastructure
+
 [<img src="https://i.imgur.com/RxoWUPx.png">]()
 
 The author indicates various good practices and patterns that the architecture help us to use easily:

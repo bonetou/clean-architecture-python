@@ -2,6 +2,7 @@
 
 ## About this Repo
 This is a study repository about Clean Architecture, it is based in Alura's Course 'Java e Clean Architecture: Descomplicando arquitetura de software'. <br>
+https://www.alura.com.br/curso-online-java-clean-architecture
 ## Project Architecture
 
 Clean Architecture simplified in three main layers:

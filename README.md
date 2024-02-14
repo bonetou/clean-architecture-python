@@ -5,14 +5,14 @@ This is a study repository about Clean Architecture, based on the Alura Course '
 
 ## Project Architecture
 
-The course simplifies Clean Architecture in three main layers:
+Clean Architecture simplified in three main layers:
 - Domain
 - Application/UseCase
 - Infrastructure
 
 [<img src="https://i.imgur.com/RxoWUPx.png">]()
 
-The author indicates various good practices and patterns that the architecture help us to use easily:
+Good practices and patterns of the architecture:
 - Builders
 - Repositories
 - Factories

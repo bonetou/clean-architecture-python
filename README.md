@@ -1,7 +1,7 @@
 # Clean Architecture in Python
 
 ## About this Repo
-This is a study repository about Clean Architecture, it is based on the Alura Course 'Java e Clean Architecture: Descomplicando arquitetura de software'. <br>
+This is a study repository about Clean Architecture, it is based in Alura's Course 'Java e Clean Architecture: Descomplicando arquitetura de software'. <br>
 ## Project Architecture
 
 Clean Architecture simplified in three main layers:
